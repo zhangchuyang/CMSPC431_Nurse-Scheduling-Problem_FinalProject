@@ -1,0 +1,17 @@
+20171001,Monday,0,8,Header
+20171001,Monday,8,16,doctor
+20171001,Monday,16,0,Nurse
+20171002,Tuesday,0,8,Header
+20171002,Tuesday,8,16,Nurse
+20171002,Tuesday,8,16,doctor
+20171002,Tuesday,16,0,Nurse
+20171003,Wednesday,8,16,Header
+20171003,Wednesday,8,16,doctor
+20171004,Thursday,16,0,Nurse
+20171005,Friday,8,16,Nurse
+20171005,Friday,8,16,doctor
+20171005,Friday,16,0,Nurse
+20171006,Saturday,8,16,doctor
+20171006,Saturday,8,16,doctor
+20171007,Sunday,8,16,doctor
+

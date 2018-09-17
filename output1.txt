@@ -1,0 +1,12 @@
+8,16,20171001,Monday,Emergency,doctor
+8,16,20171001,Monday,Heart,doctor
+8,16,20171002,Tuesday,Emergency,Nurse
+8,16,20171003,Wednesday,Emergency,Header
+8,16,20171004,Thursday,Care Room,doctor
+8,16,20171004,Thursday,Care Room,doctor
+16,0,20171004,Thursday,Care Room,Nurse
+8,16,20171005,Friday,Emergency,Nurse
+8,16,20171006,Saturday,Emergency,doctor
+8,16,20171006,Saturday,Emergency,doctor
+8,16,20171007,Sunday,Emergency,doctor
+

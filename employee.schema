@@ -1,0 +1,15 @@
+ADD employeeID char 10
+ADD lastName char 20
+ADD firstName char 20
+ADD middleName char 20
+ADD address char 50
+ADD city char 20
+ADD state char 20
+ADD zip char 10
+ADD FTorPT char 20
+ADD salary char 10
+ADD phone char 10
+ADD roleID char 10
+ADD certification char 20
+ADD departID char 10
+END

@@ -1,0 +1,4 @@
+ADD salaryID char 10
+ADD salaryPerShift char 10
+ADD roleID char 10
+END
